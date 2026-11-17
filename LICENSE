@@ -1,0 +1,37 @@
+LISENSI PERANGKAT LUNAK PROPRIETARY - MANAPOIN DESK
+
+Hak Cipta (c) 2026 PT. AKRIONIS TEKNOLOGI INDONESIA. Seluruh hak dilindungi undang-undang.
+Copyright (c) 2026 PT. AKRIONIS TEKNOLOGI INDONESIA. All rights reserved.
+
+Perangkat lunak Manapoin Desk, termasuk kode sumber, kode program hasil kompilasi (Launcher.exe,
+ManapoinDesk.exe dan berkas pendukungnya), desain antarmuka, logo, merek "Manapoin", dokumentasi, dan
+seluruh berkas rilis ("Perangkat Lunak") adalah milik PT. AKRIONIS TEKNOLOGI INDONESIA ("Perusahaan")
+dan dilindungi oleh Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta serta peraturan perundang-undangan
+Republik Indonesia lainnya.
+
+1. Perangkat Lunak BUKAN perangkat lunak open source. Tersedianya berkas rilis di repositori atau halaman
+   unduhan publik tidak memberikan hak apa pun selain yang tertulis di Perjanjian Lisensi Pengguna Akhir
+   (EULA) Manapoin Desk (berkas legal/EULA.txt, juga ditampilkan saat instalasi).
+
+2. Tanpa izin tertulis dari Perusahaan, siapa pun DILARANG:
+   a. menyalin, mengubah, menerjemahkan, atau membuat karya turunan dari Perangkat Lunak;
+   b. mendistribusikan, menjual, menyewakan, mensublisensikan, atau menyediakan Perangkat Lunak
+      untuk pihak ketiga, baik gratis maupun berbayar;
+   c. melakukan rekayasa balik (reverse engineering), dekompilasi, atau pembongkaran Perangkat Lunak,
+      kecuali sejauh diizinkan secara tegas oleh hukum yang berlaku atau oleh lisensi komponen
+      pihak ketiga sebagaimana disebut pada butir 3;
+   d. menghapus atau mengubah pemberitahuan hak cipta, merek, atau lisensi.
+
+3. Perangkat Lunak memuat komponen pihak ketiga (antara lain Qt for Python / PySide6 di bawah GNU LGPL
+   versi 3) yang tunduk pada lisensinya masing-masing, sebagaimana tercantum di
+   legal/THIRD-PARTY-NOTICES.txt. Lisensi ini tidak membatasi hak yang diberikan oleh lisensi tersebut
+   atas komponen yang bersangkutan.
+
+4. Kode sumber Perangkat Lunak bersifat RAHASIA. Akses ke repositori kode sumber hanya untuk pihak yang
+   diberi izin oleh Perusahaan dan tidak boleh diungkapkan kepada pihak lain.
+
+5. PERANGKAT LUNAK DISEDIAKAN "SEBAGAIMANA ADANYA", sejauh diizinkan oleh hukum, tanpa jaminan apa pun.
+   Ketentuan lengkap mengenai penggunaan, jaminan, dan batas tanggung jawab diatur dalam EULA.
+
+Permohonan izin dan pertanyaan lisensi:
+PT. AKRIONIS TEKNOLOGI INDONESIA - https://manapoin.com - cs@manapoin.com
